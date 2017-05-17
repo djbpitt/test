@@ -6,6 +6,6 @@ And once more on January 10
 first | second | third
 ---- | ---- | ----
 this | that | other
-stuff ||
+stuff | hi
 more stuff | |
 this | that | other
