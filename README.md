@@ -15,3 +15,9 @@ this | that | other
 stuff | hi
 more stuff | |
 this | that | other
+
+```python
+print('Hello!')
+```
+```xml
+<stuff type="stuffy">Hello!</stuff>
