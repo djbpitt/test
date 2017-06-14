@@ -19,6 +19,6 @@ this | that | other
 ```python
 print('Hello!')
 ```
-```
+```xml
 <stuff type="stuffy">Hello!</stuff>
 ```
