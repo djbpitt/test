@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
-
-block:
-  line_numbers: true
-  start_line: 1
+syntax_highlighter_opts:
+    css_class: 'highlight'
+    block:
+      line_numbers: true
+      start_line: 1
