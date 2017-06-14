@@ -1,2 +1,2 @@
 {{ content }}
-{% include nav.html %}
+{% include nav.md %}
