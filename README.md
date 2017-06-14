@@ -19,6 +19,6 @@ this | that | other
 ```python
 print('Hello!')
 ```
-```xml
+{% highlight xml %}
 <stuff type="stuffy">Hello!</stuff>
-```
+{% endhighlight %}
