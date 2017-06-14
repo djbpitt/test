@@ -16,7 +16,7 @@ stuff | hi
 more stuff | |
 this | that | other
 
-Sigh:
+Ahem:
 
 ```python
 print('Hello!')
