@@ -16,7 +16,7 @@ stuff | hi
 more stuff | |
 this | that | other
 
-These should now be numbered:
+Blah blah blah:
 
 ```python
 print('Hello!')
