@@ -1,26 +1,13 @@
-# Test file
+---
+layout: layout
+title: Main page
+---
+This is a test to see whether I can include navigation in a page. Here’s some dummy content:
 
-The following is from include_file.html:
-{% include include_file.html %}
-And the following is from include_file.md:
-{% include include_file.md %}
-Hi, Mom!
-Updating on January 1, a work-avoidance strategy.
-And again on January 7
-And once more on January 10
+Blah blah blah
 
-first | second | third
----- | ---- | ----
-this | that | other
-stuff | hi
-more stuff | |
-this | that | other
+* First
+* Second
+* Third
 
-Ahem:
-
-```python
-print('Hello!')
-```
-```xml
-<stuff type="stuffy">Hello!</stuff>
-```
+More blah
