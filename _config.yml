@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+block:
+  line_numbers: true
+  start_line: 1
