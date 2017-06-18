@@ -1,4 +1,5 @@
 ---
+permalink: /
 layout: layout
 title: Main page
 ---
