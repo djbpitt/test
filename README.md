@@ -7,7 +7,7 @@ This is a test to see whether I can include navigation in a page. Here’s some 
 
 Blah blah blah
 
-*{:.blah} First
+* {:.blah} First
 * Second
 * Third
 
