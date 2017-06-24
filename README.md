@@ -11,4 +11,9 @@ Blah blah blah
 * Second
 * Third
 
+First term
+: First definition
+Second term
+: Section definition
+
 More blah
