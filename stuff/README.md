@@ -2,4 +2,4 @@
 
 Link:
 
-[into nonsense directory]({{site.baserul}}/nonsense/example.md)
+[into nonsense directory]({site.baserul}/nonsense/example.md)
