@@ -17,3 +17,5 @@ Second term
 : Section definition
 
 More blah
+
+Link: [stuff](stuff/README.md)
