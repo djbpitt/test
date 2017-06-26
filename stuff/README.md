@@ -2,4 +2,4 @@
 
 Link:
 
-[into nonsense directory]({site.baseurl}/nonsense/example.md)
+[into nonsense directory](../nonsense/example.md)
